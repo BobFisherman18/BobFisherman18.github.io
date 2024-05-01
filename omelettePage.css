@@ -1,31 +1,64 @@
-header {
+ body {
     background-color: hsl(30, 54%, 90%);
-    padding: 35px;
-    border: 10px solid hsl(30, 54%, 90%);
-    outline: 10px solid hsl(30, 54%, 90%);
-}
-body {
     font-family: 'Times New Roman', Times, serif;
+   
 }
 
-.prep {
-    background-color: hsl(330, 100%, 98%);
-    padding: 15px;
-    border-radius: 3%;
-    margin-right: 25px;
-    margin-left: 10px;
+section {
+    background-color: white;
+    margin: 100px 200px;
+    border-radius: 10px;
 }
 
+img {
+    border-radius: 50px;
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px 25px 0 25px;
+}
+
+header {
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
 h3 {
     color: hsl(332, 51%, 32%);
 }
 h2 {
     color: hsl(14, 45%, 36%);
 }
+h1 {
+    font-size: xx-large;
+}
+p {
+    color: hsl(24, 5%, 18%);
+}
 
+.prep {
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 10px;
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0 20px 20px;
+}
 .prepList li {
     color: hsl(332, 51%, 32%);
     margin: 5px;
+}
+ul {
+    padding-left: 13px;
+}
+ol {
+    padding-left: 20px;
+}
+li {
+    width: 100%;
 }
 li p {
     display: inline;
@@ -34,24 +67,33 @@ li p {
 
 .ingredients {
     border-bottom: 1px solid hsl(30, 18%, 87%);
-    margin-right: 25px;
-    margin-left: 10px;
     color:  hsl(14, 45%, 36%);
-
-} 
-
-img {
-    width: 100%;
-    border-radius: 3%;
-    margin-top: 50px;
-    margin-left: 13px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
+.instructions {
+    color:  hsl(14, 45%, 36%);
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nut {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-
-
-
-
+table {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+table td {
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+}
 
 
 
@@ -61,4 +103,11 @@ img {
   }
   .attribution a {
     color: hsl(228, 45%, 44%);
+  }
+
+  @media (max-width: 600px) {
+    .prep, .ingredients, .instructions, .nut {
+      width: 100%;
+      height: auto;
+    }
   }

@@ -14,6 +14,7 @@ The designs were created to the following widths:
 ### Primary
 
 h2 color
+done
 
 - Nutmeg: hsl(14, 45%, 36%)
 
@@ -22,6 +23,9 @@ h2 color
 ### Neutral
 
 - White: hsl(0, 0%, 100%)
+
+done
+
 - Rose White: hsl(330, 100%, 98%)
 
 - Eggshell: hsl(30, 54%, 90%)
@@ -29,6 +33,7 @@ h2 color
 - Light Grey: hsl(30, 18%, 87%)
 
   li color
+  done
 
 - Wenge Brown: hsl(30, 10%, 34%)
 
