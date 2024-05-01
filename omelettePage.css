@@ -1,0 +1,64 @@
+header {
+    background-color: hsl(30, 54%, 90%);
+    padding: 35px;
+    border: 10px solid hsl(30, 54%, 90%);
+    outline: 10px solid hsl(30, 54%, 90%);
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.prep {
+    background-color: hsl(330, 100%, 98%);
+    padding: 15px;
+    border-radius: 3%;
+    margin-right: 25px;
+    margin-left: 10px;
+}
+
+h3 {
+    color: hsl(332, 51%, 32%);
+}
+h2 {
+    color: hsl(14, 45%, 36%);
+}
+
+.prepList li {
+    color: hsl(332, 51%, 32%);
+    margin: 5px;
+}
+li p {
+    display: inline;
+    color: black;
+}
+
+.ingredients {
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+    margin-right: 25px;
+    margin-left: 10px;
+    color:  hsl(14, 45%, 36%);
+
+} 
+
+img {
+    width: 100%;
+    border-radius: 3%;
+    margin-top: 50px;
+    margin-left: 13px;
+}
+
+
+
+
+
+
+
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
