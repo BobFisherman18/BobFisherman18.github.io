@@ -26,12 +26,12 @@ The challenge is to replicate web page as close as possible with the given asset
 
 ### Screenshot
 
-![Mobile]()
-![Desktop]()
+![Mobile](/recipe%20webpage/Mobile-recipe.png)
+![Desktop](/recipe%20webpage/Desktop-recipe.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/recipe-page-using-css-borderbox-UmCSxvaaV6)
 - Live Site URL: [My Recipe Website](https://bobfisherman18.github.io/)
 
 ## My process
