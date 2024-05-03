@@ -26,8 +26,8 @@ The challenge is to replicate web page as close as possible with the given asset
 
 ### Screenshot
 
-![Mobile]("C:\Users\Jonah\Pictures\Web Screenshots\Mobile-recipe.png")
-![Desktop]("C:\Users\Jonah\Pictures\Web Screenshots\Desktop-recipe.png")
+![Mobile]()
+![Desktop]()
 
 ### Links
 
